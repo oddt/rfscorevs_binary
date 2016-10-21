@@ -76,7 +76,7 @@ install:
     - cd sklearn-compiledtrees
     - curl -L -o dlfcn-win32.tar.gz https://github.com/dlfcn-win32/dlfcn-win32/releases/download/v1.0.0/dlfcn-win32-static-1.0.0.tar.gz
     - 7z e dlfcn-win32.tar.gz && 7z x dlfcn-win32.tar
-    - python setup.py build_ext --inplace -I include -l dl -L lib
+    - python setup.py build_ext --inplace -I include -l libdl.a -L lib
     - python setup.py install
     - cd ..
 
