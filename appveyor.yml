@@ -1,0 +1,112 @@
+environment:
+  # See README for information on the token
+  ANACONDA_TOKEN:
+    secure: AaDohlZ5kwkG4ymSAkUVvTIzL1SDr1WMl/0A/07mnOWqcxOTDMqaMTSeDSvlOEZV
+  global:
+    # SDK v7.0 MSVC Express 2008's SetEnv.cmd script will fail if the
+    # /E:ON and /V:ON options are not enabled in the batch script intepreter
+    # See: http://stackoverflow.com/a/13751649/163740
+    CMD_IN_ENV: "cmd /E:ON /V:ON /C .\\ci\\appveyor\\run_with_env.cmd"
+
+  matrix:
+    - PYTHON: "C:\\Python27_32"
+      PYTHON_VERSION: "2.7"
+      PYTHON_ARCH: "32"
+      CONDA_PY: "27"
+
+    - PYTHON: "C:\\Python27_64"
+      PYTHON_VERSION: "2.7"
+      PYTHON_ARCH: "64"
+      CONDA_PY: "27"
+
+    #- PYTHON: "C:\\Python34_32"
+    #  PYTHON_VERSION: "3.4"
+    #  PYTHON_ARCH: "32"
+    #  CONDA_PY: "34"
+
+    # - PYTHON: "C:\\Python34_64"
+    #   PYTHON_VERSION: "3.4"
+    #   PYTHON_ARCH: "64"
+    #   CONDA_PY: "34"
+
+    #- PYTHON: "C:\\Python35_32"
+    #  PYTHON_VERSION: "3.5"
+    #  PYTHON_ARCH: "32"
+    #  CONDA_PY: "35"
+
+    - PYTHON: "C:\\Python35_64"
+      PYTHON_VERSION: "3.5"
+      PYTHON_ARCH: "64"
+      CONDA_PY: "35"
+
+install:
+    # https://www.appveyor.com/docs/installed-software#python
+    - if "%PYTHON_VERSION%" == "3.4" set "BASE_PYTHON_VERSION=3"
+    - if "%PYTHON_VERSION%" == "3.5" set "BASE_PYTHON_VERSION=35"
+    - if "%PYTHON_ARCH%" == "64" set "ARCH_LABEL=-x64"
+    # These are already installed on appveyor.  Update them.
+    - set "CONDA_ROOT=C:\Miniconda%BASE_PYTHON_VERSION%%ARCH_LABEL%"
+    - set "PATH=%CONDA_ROOT%;%CONDA_ROOT%\Scripts;%CONDA_ROOT%\Library\bin;%PATH%"
+    - set "PATH=C:\MinGW\bin;%PATH%"
+    - mingw-get update
+    - mingw-get install gcc g++
+    - conda config --set always_yes yes
+    - conda update -q conda
+    - conda info
+    - conda update -q --all
+    - python -c "import sys; print(sys.version)"
+    - python -c "import sys; print(sys.executable)"
+    - python -c "import sys; print(sys.prefix)"
+    - conda create --yes --name oddt_env python=%PYTHON_VERSION%
+    - activate oddt_env
+    - conda install -q six
+    #- conda install -q -c conda-forge mingwpy
+    - conda install -q -c openbabel openbabel
+    - conda install -q -c rdkit rdkit
+    # temp
+    - conda install -q numpy scipy scikit-learn joblib
+    - pip install --no-deps git+https://github.com/oddt/oddt.git@experimental-windows
+    # Use commit pre-MKL
+    - pip install git+https://github.com/pyinstaller/pyinstaller.git@feb0d271263ca884b91033fd588b79fadf3a3a7f
+    # Remove buggy numpy hook instead of @feb0d271263ca884b91033fd588b79fadf3a3a7f
+    - python -c "import PyInstaller;print(PyInstaller.__file__)"
+    #- del /F %CONDA_PREFIX%\Lib\site-packages\PyInstaller\hooks\hook-numpy.core.py
+    # compiledtrees
+    # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@windows-compilation
+    - git clone -b windows-compilation https://github.com/mwojcikowski/sklearn-compiledtrees.git
+    - cd sklearn-compiledtrees
+    # - curl -L -o dlfcn-win32.tar.gz https://github.com/dlfcn-win32/dlfcn-win32/releases/download/v1.0.0/dlfcn-win32-static-1.0.0.tar.gz
+    # - 7z e dlfcn-win32.tar.gz && 7z x dlfcn-win32.tar
+    # - copy include\dlfcn.h compiledtrees
+    # - python setup.py build_ext --inplace
+    # - python setup.py install
+    - cd ..
+    - curl -L -o upx.zip http://libgd.blob.core.windows.net/upx/upx391w.zip && 7z e upx.zip *.exe -r
+
+build: false
+
+test_script:
+  - 'pyinstaller --clean ^
+        --additional-hooks-dir . ^
+        --hidden-import="sklearn.tree._utils" ^
+        --hidden-import=sklearn.neighbors.typedefs ^
+        --hidden-import=six ^
+        --hidden-import=compiledtrees ^
+        --runtime-hook pyi_rth_obdata.py ^
+        --add-data "./RFScoreVS_v2_vina.pickle;." ^
+        --add-binary "%CONDA_PREFIX%\Library\bin\mkl_avx.dll;." ^
+        --add-binary "%CONDA_PREFIX%\Library\bin\formats_*.obf;." ^
+        --add-binary "%CONDA_PREFIX%\Library\bin\plugin_*.obf;." ^
+        --add-data "%CONDA_PREFIX%\share\openbabel\*;data" ^
+        --exclude-module=rdkit ^
+        --exclude-module tcl ^
+        --exclude-module Tkinter ^
+        --noupx ^
+        --nowindow ^
+        -y -n rf-score-vs --onefile %CONDA_PREFIX%\Scripts\rf-score-vs'
+  - deactivate
+  - dist\rf-score-vs.exe --help
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv --field name --field RFScoreVS_v2
+artifacts:
+  # Archive the generated conda package in the ci.appveyor.com build report.
+  - path: .\dist\rf-score-vs.exe

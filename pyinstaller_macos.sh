@@ -1,0 +1,41 @@
+#!/bin/bash
+export CONDA_ROOT="$HOME/miniconda/envs/oddt_env/"
+
+pyinstaller \
+    --clean \
+    --additional-hooks-dir=. \
+    --hidden-import=six \
+    --hidden-import=sklearn.tree._utils \
+    --hidden-import=sklearn.neighbors.typedefs \
+    --hidden-import=compiledtrees \
+    --exclude-module=tcl \
+    --exclude-module=Tkinter \
+    --exclude-module=rdkit \
+    --add-data "./RFScoreVS_v2_vina.pickle:." \
+    --add-data="${CONDA_ROOT}/share/openbabel/*/*:data/" \
+    --add-binary="${CONDA_ROOT}/lib/openbabel/*/mdlformat.so:." \
+    --add-binary="${CONDA_ROOT}/lib/openbabel/*/mol2format.so:." \
+    --add-binary="${CONDA_ROOT}/lib/openbabel/*/pdbformat.so:." \
+    --add-binary="${CONDA_ROOT}/lib/openbabel/*/pdbqtformat.so:." \
+    --runtime-hook=pyi_rth_obdata.py \
+    --nowindow \
+    --strip \
+    --add-binary "${CONDA_ROOT}/lib/libinchi.0.dylib:." \
+    --add-binary "${CONDA_ROOT}/lib/libmkl_mc.dylib:." \
+    --add-binary "${CONDA_ROOT}/lib/libmkl_avx2.dylib:." \
+    --add-binary "/opt/X11/lib/libcairo.2.dylib:." \
+    --add-binary "/opt/X11/lib/libxcb-render.0.dylib:." \
+    --add-binary "/opt/X11/lib/libxcb-shm.0.dylib:." \
+    --add-binary "/opt/X11/lib/libfontconfig.1.dylib:." \
+    --add-binary "/opt/X11/lib/libXrender.1.dylib:." \
+    --add-binary "/opt/X11/lib/libpng16.16.dylib:." \
+    --add-binary "/opt/X11/lib/libX11-xcb.1.dylib:." \
+    --add-binary "/opt/X11/lib/libfreetype.6.dylib:." \
+    --add-binary "/opt/X11/lib/libxcb.1.dylib:." \
+    --add-binary "/opt/X11/lib/libX11.6.dylib:." \
+    --add-binary "/opt/X11/lib/libpixman-1.0.dylib:." \
+    --add-binary "/opt/X11/lib/libXext.6.dylib:." \
+    --add-binary "/opt/X11/lib/libXau.6.dylib:." \
+    --add-binary "/opt/X11/lib/libXdmcp.6.dylib:." \
+    --add-binary "/opt/X11/lib/libxcb.1.dylib:." \
+    -n rf-score-vs --onefile ./rf-score-vs
