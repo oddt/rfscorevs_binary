@@ -58,7 +58,6 @@ install:
     - conda create --yes --name oddt_env python=%PYTHON_VERSION%
     - activate oddt_env
     - conda install -q six
-    #- conda install -q -c conda-forge mingwpy
     - conda install -q -c openbabel openbabel
 
     # temp
@@ -70,15 +69,19 @@ install:
     - python -c "import PyInstaller;print(PyInstaller.__file__)"
     #- del /F %CONDA_PREFIX%\Lib\site-packages\PyInstaller\hooks\hook-numpy.core.py
 
+    # dlfcn
+    - conda install -q -c conda-forge mingwpy git
+    - git clone https://github.com/dlfcn-win32/dlfcn-win32.git
+    - cd dlfcn-win32
+    - bash configure --prefix=%CONDA_PREFIX%/Library
+    - make install
+    - cd ..
+
     # compiledtrees
     # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@windows-compilation
     - git clone -b windows-compilation https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
-    - curl -L -o dlfcn-win32.tar.gz https://github.com/dlfcn-win32/dlfcn-win32/releases/download/r19/dlfcn-win32-shared-r19.tar.bz2
-    - 7z e dlfcn-win32.tar.gz && 7z x dlfcn-win32.tar
-    - copy include\dlfcn.h %CONDA_PREFIX%\include\dlfcn.h
-    - copy lib\ %CONDA_PREFIX%\Library\lib\
-    - python setup.py build_ext --inplace --include-dirs=include --libraries=libdl --library-dirs=lib
+    - python setup.py build_ext --inplace --libraries=dl
     - python setup.py install
     - cd ..
 
