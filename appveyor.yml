@@ -70,7 +70,7 @@ install:
     #- del /F %CONDA_PREFIX%\Lib\site-packages\PyInstaller\hooks\hook-numpy.core.py
 
     # dlfcn
-    - conda install -q -c conda-forge mingwpy git
+    - conda install -q -c conda-forge mingwpy git make
     - git clone https://github.com/dlfcn-win32/dlfcn-win32.git
     - cd dlfcn-win32
     - bash configure --prefix=%CONDA_PREFIX%/Library
