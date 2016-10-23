@@ -74,7 +74,7 @@ install:
     - git clone https://github.com/dlfcn-win32/dlfcn-win32.git
     - cd dlfcn-win32
     - bash configure --prefix=%CONDA_PREFIX%/Library
-    - make install
+    - make
     - cd ..
 
     # compiledtrees
