@@ -73,8 +73,9 @@ install:
     - conda install -q -c conda-forge mingwpy git make
     - git clone https://github.com/dlfcn-win32/dlfcn-win32.git
     - cd dlfcn-win32
-    - bash configure --prefix=%CONDA_PREFIX%/Library
+    - bash configure --prefix=%CONDA_PREFIX%/Library --enable-shared --enable-static
     - make
+    - copy libdl.dll %CONDA_PREFIX%/libdl.dll
     - cd ..
 
     # compiledtrees
