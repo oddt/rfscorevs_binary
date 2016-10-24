@@ -46,10 +46,10 @@ install:
 
 script:
     - dist/rf-score-vs --help
-    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv --field name --field RFScoreVS_v2
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv
     - export RFVS_VER=`dist/rf-score-vs --version 2>&1 | cut -d' ' -f2`
     - echo $RFVS_VER
 
 after_success:
     - zip -j -r rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip dist/rf-score-vs
-    - "curl --ftp-create-dirs -T rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip -u $FTP_USER:$FTP_PASSWORD ftp://wojcikowski.pl"
+    - curl --ftp-create-dirs -T rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip -u $FTP_USER:$FTP_PASSWORD ftp://wojcikowski.pl

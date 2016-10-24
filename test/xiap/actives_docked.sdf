@@ -1,7 +1,7 @@
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8980   12.3580  -20.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1630   11.2290  -20.5660 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9120   11.0260  -21.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,50 +95,11 @@
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--54.44
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.3520   13.6690  -21.4320 C   0  0  2  0  0  0  0  0  0  0  0  0
     9.0670   13.5340  -22.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.5290   13.9550  -22.6240 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -232,50 +193,11 @@ $$$$
  41 40  2  0  0  0  0
  41 27  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--53.94
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8550   12.6690  -20.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1220   11.5430  -20.3090 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8570   11.2770  -21.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -369,50 +291,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--53.87
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.7980   12.8080  -20.7610 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0630   11.6780  -20.7380 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8550   11.4090  -21.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -489,50 +372,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--53.79
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8720   12.5560  -20.3150 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1140   11.4430  -20.3740 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7440   11.3670  -20.9020 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -626,50 +470,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--53.62
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.7570   12.7960  -20.6980 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0080   11.6760  -20.7040 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8250   11.4370  -21.5500 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -746,50 +551,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--53.45
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.9580   12.5550  -20.6850 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2550   11.4060  -20.6890 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0380   11.1350  -21.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -878,50 +644,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--53.28
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312080
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 35 37  0  0  0  0  0  0  0  0999 V2000
+ 35 37  0  0  1  0  0  0  0  0999 V2000
     8.8300   12.8180  -20.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0970   11.6870  -20.7710 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8940   11.4250  -21.5810 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -995,50 +722,11 @@ $$$$
  32 27  1  0  0  0  0
  32 31  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188062
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC2CCCc3c2cccc3)C(C)(C)C)NC
-
->  <name>
-312080
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--53.10
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312287
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 38 41  0  0  0  0  0  0  0  0999 V2000
+ 38 41  0  0  1  0  0  0  0  0999 V2000
     8.6590   12.6070  -20.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.8600   11.5220  -20.3690 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7480   11.2830  -21.3050 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1119,50 +807,11 @@ $$$$
  35 30  1  0  0  0  0
  35 34  2  0  0  0  0
 M  END
->  <act>
-40
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL360180
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC2c3ccccc3-c4c2cccc4)C(C)(C)C)NC
-
->  <name>
-312287
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NC1c2ccccc2-c2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1c2ccccc2-c2ccccc21)C(C)(C)C
-
->  <score>
--52.21
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.6900   12.7160  -20.3170 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9050   11.6200  -20.3020 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5000   11.5590  -20.7130 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1239,50 +888,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--52.15
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.6200   12.4960  -20.2360 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0350   11.3060  -20.4750 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8850   11.0660  -21.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1376,50 +986,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--51.95
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.7350   12.5160  -20.3050 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9590   11.4130  -20.2940 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5550   11.3510  -20.7250 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1508,50 +1079,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--51.64
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     9.0890   12.8420  -20.7970 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4240   11.6710  -20.7510 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2050   11.3340  -21.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1645,50 +1177,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--51.53
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312080
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 35 37  0  0  0  0  0  0  0  0999 V2000
+ 35 37  0  0  1  0  0  0  0  0999 V2000
     8.6950   12.7280  -20.3060 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9130   11.6310  -20.2880 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5060   11.5650  -20.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1762,50 +1255,11 @@ $$$$
  32 31  2  0  0  0  0
  32 27  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188062
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC2CCCc3c2cccc3)C(C)(C)C)NC
-
->  <name>
-312080
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--51.02
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.4010   13.0500  -20.4440 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0580   11.7470  -20.4720 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2330   11.0880  -21.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1899,50 +1353,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--50.99
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.2380   13.6670  -21.4660 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.7320   13.5350  -22.9080 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.1970   13.9680  -22.9870 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2036,50 +1451,11 @@ $$$$
  41 40  2  0  0  0  0
  41 27  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--50.62
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518516
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 41  0  0  0  0  0  0  0  0999 V2000
+ 39 41  0  0  1  0  0  0  0  0999 V2000
     9.0580   12.8340  -20.8020 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3700   11.6740  -20.8030 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2160   11.3580  -21.6290 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2161,50 +1537,11 @@ $$$$
  33 28  1  0  0  0  0
  34 31  1  0  0  0  0
 M  END
->  <act>
-580
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL517556
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccc(cc3)F)C(C)(C)C)NC
-
->  <name>
-518516
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccc(F)cc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccc(F)cc3)[C@H]21)C(C)(C)C
-
->  <score>
--50.54
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.7890   13.0820  -20.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0800   11.9400  -20.4190 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8150   11.6490  -21.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2298,50 +1635,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--50.22
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518514
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 42  0  0  0  0  0  0  0  0999 V2000
+ 39 42  0  0  1  0  0  0  0  0999 V2000
     8.8770   12.7830  -20.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1350   11.6590  -20.6740 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0060   11.4230  -21.5920 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2424,50 +1722,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-160
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL459803
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3csc4c3cccc4)C(C)(C)C)NC
-
->  <name>
-518514
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2csc3ccccc23)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3csc4ccccc34)[C@H]21)C(C)(C)C
-
->  <score>
--50.21
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312110
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 35 37  0  0  0  0  0  0  0  0999 V2000
+ 35 37  0  0  1  0  0  0  0  0999 V2000
     9.1700   12.8140  -20.9450 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2510   11.9100  -20.5510 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8240   11.9310  -20.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2541,50 +1800,11 @@ $$$$
  31 26  1  0  0  0  0
  31 30  2  0  0  0  0
 M  END
->  <act>
-20
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL361282
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H]2CCc3c2cccc3)C(C)(C)C)NC
-
->  <name>
-312110
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)N[C@]1([H])CCc2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H]1CCc2ccccc21)C(C)(C)C
-
->  <score>
--50.15
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312110
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 35 37  0  0  0  0  0  0  0  0999 V2000
+ 35 37  0  0  1  0  0  0  0  0999 V2000
     8.7810   12.3490  -20.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1130   11.1780  -20.4450 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8000   10.9530  -21.0550 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2658,50 +1878,11 @@ $$$$
  31 26  1  0  0  0  0
  31 30  2  0  0  0  0
 M  END
->  <act>
-20
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL361282
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H]2CCc3c2cccc3)C(C)(C)C)NC
-
->  <name>
-312110
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)N[C@]1([H])CCc2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H]1CCc2ccccc21)C(C)(C)C
-
->  <score>
--50.05
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     9.0250   12.8600  -20.8120 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3500   11.6950  -20.7430 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.1140   11.3640  -21.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2790,50 +1971,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--49.89
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.9000   12.9980  -20.6980 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3040   11.7920  -20.7730 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2030   11.4220  -21.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -2922,50 +2064,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--49.89
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312366
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 47 49  0  0  0  0  0  0  0  0999 V2000
+ 47 49  0  0  1  0  0  0  0  0999 V2000
     9.1020   12.5880  -20.7010 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0960   11.7120  -20.5110 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7390   11.8250  -21.0520 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3063,50 +2166,11 @@ $$$$
  41 33  2  0  0  0  0
  42 33  1  0  0  0  0
 M  END
->  <act>
-30
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL360607
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](c2ccccc2)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)O)N
-
->  <name>
-312366
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@@]([H])(NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)c1ccccc1)C(=O)O
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O)c1ccccc1
-
->  <score>
--49.87
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303124
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 29 30  0  0  0  0  0  0  0  0999 V2000
+ 29 30  0  0  1  0  0  0  0  0999 V2000
     8.8680   12.5560  -20.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1270   11.4310  -20.5650 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9390   11.2260  -21.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3167,50 +2231,11 @@ $$$$
  26 22  1  0  0  0  0
  26 25  1  0  0  0  0
 M  END
->  <act>
-180
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL181003
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2cccs2)N
-
->  <name>
-303124
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NCc1cccs1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NCc1cccs1
-
->  <score>
--49.73
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     9.3380   12.9120  -20.9270 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.5260   11.8750  -20.6440 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.1530   11.7020  -21.1400 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3304,50 +2329,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--49.65
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.7350   12.7650  -20.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9710   11.6550  -20.5280 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7790   11.4230  -21.3560 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3441,50 +2427,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--49.62
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8300   12.6450  -20.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0920   11.5170  -20.5920 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9090   11.2640  -21.4280 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3578,50 +2525,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--49.62
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518515
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 38 40  0  0  0  0  0  0  0  0999 V2000
+ 38 40  0  0  1  0  0  0  0  0999 V2000
     9.0760   12.8260  -20.7530 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3910   11.6660  -20.7590 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2450   11.3450  -21.5950 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3701,50 +2609,11 @@ $$$$
  33 32  2  0  0  0  0
  33 28  1  0  0  0  0
 M  END
->  <act>
-330
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL459597
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccccc3)C(C)(C)C)NC
-
->  <name>
-518515
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccccc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccccc3)[C@H]21)C(C)(C)C
-
->  <score>
--49.53
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518079
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 40 43  0  0  0  0  0  0  0  0999 V2000
+ 40 43  0  0  1  0  0  0  0  0999 V2000
     8.9690   12.8600  -21.1040 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2560   11.7220  -21.2220 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0980   11.5250  -22.1110 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3829,50 +2698,11 @@ $$$$
  35 34  2  0  0  0  0
  35 30  1  0  0  0  0
 M  END
->  <act>
-140
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL511444
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3cccc4c3cccc4)C(C)(C)C)NC
-
->  <name>
-518079
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2cccc3ccccc23)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3cccc4ccccc34)[C@H]21)C(C)(C)C
-
->  <score>
--49.53
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312326
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 46 47  0  0  0  0  0  0  0  0999 V2000
+ 46 47  0  0  1  0  0  0  0  0999 V2000
     9.5020    9.5740  -20.2500 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1780   10.1830  -19.8680 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.0310    9.2180  -20.2350 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -3967,50 +2797,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-360
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363770
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@H](C)[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312326
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)[C@@]([H])(C)CC)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--49.23
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.7540   12.5300  -20.3160 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9860   11.4240  -20.3590 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.6130   11.3540  -20.8790 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4099,50 +2890,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--49.22
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.8410   12.8050  -20.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1030   11.6790  -20.4600 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9630   11.3470  -21.3340 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4219,50 +2971,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--49.03
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518302
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 42  0  0  0  0  0  0  0  0999 V2000
+ 39 42  0  0  1  0  0  0  0  0999 V2000
     8.9300   12.7350  -20.9440 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1570   11.6370  -21.0560 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0120   11.4830  -21.9700 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4345,50 +3058,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  1  0  0  0  0
 M  END
->  <act>
-490
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL462102
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3ccc4c(c3)cco4)C(C)(C)C)NC
-
->  <name>
-518302
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2ccc3occc3c2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3ccc4occc4c3)[C@H]21)C(C)(C)C
-
->  <score>
--49.02
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518516
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 41  0  0  0  0  0  0  0  0999 V2000
+ 39 41  0  0  1  0  0  0  0  0999 V2000
     9.1380   12.7620  -21.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2600   11.8440  -20.5540 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8070   11.8510  -20.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4470,50 +3144,11 @@ $$$$
  33 28  1  0  0  0  0
  34 31  1  0  0  0  0
 M  END
->  <act>
-580
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL517556
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccc(cc3)F)C(C)(C)C)NC
-
->  <name>
-518516
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccc(F)cc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccc(F)cc3)[C@H]21)C(C)(C)C
-
->  <score>
--48.97
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     9.0870   12.8240  -20.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4180   11.6540  -20.7670 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2040   11.3320  -21.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4607,50 +3242,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.83
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518078
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 43 46  0  0  0  0  0  0  0  0999 V2000
+ 43 46  0  0  1  0  0  0  0  0999 V2000
     9.1390   12.7860  -20.8680 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4690   11.6170  -20.9070 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.3240   11.3080  -21.7490 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4741,50 +3337,11 @@ $$$$
  38 37  2  0  0  0  0
  38 33  1  0  0  0  0
 M  END
->  <act>
-570
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL479725
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)C(c3ccccc3)c4ccccc4)C(C)(C)C)NC
-
->  <name>
-518078
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)C(c2ccccc2)c2ccccc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)C(c3ccccc3)c3ccccc3)[C@H]21)C(C)(C)C
-
->  <score>
--48.78
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8930   12.8300  -20.7180 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1930   11.6860  -20.5950 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9310   11.3610  -21.2820 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4878,50 +3435,11 @@ $$$$
  41 36  1  0  0  0  0
  41 40  2  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.77
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.9940   12.6270  -20.7380 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0530   11.6620  -20.7440 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9090   11.5840  -21.6700 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -4998,50 +3516,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.66
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312287
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 38 41  0  0  0  0  0  0  0  0999 V2000
+ 38 41  0  0  1  0  0  0  0  0999 V2000
     8.8510   12.6560  -20.5880 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1360   11.5140  -20.5250 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7960   11.3030  -21.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5122,50 +3601,11 @@ $$$$
  35 30  1  0  0  0  0
  35 34  2  0  0  0  0
 M  END
->  <act>
-40
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL360180
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC2c3ccccc3-c4c2cccc4)C(C)(C)C)NC
-
->  <name>
-312287
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NC1c2ccccc2-c2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1c2ccccc2-c2ccccc21)C(C)(C)C
-
->  <score>
--48.66
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.7060   12.8010  -20.4430 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9180   11.7120  -20.3610 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5080   11.6350  -20.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5242,50 +3682,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.40
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.6010   12.9590  -20.6110 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9230   11.7960  -20.6640 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7560   11.5200  -21.5210 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5362,50 +3763,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.39
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.3370   13.5870  -21.9290 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.9970   13.2940  -23.2780 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.4500   13.7730  -23.2490 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5499,50 +3861,11 @@ $$$$
  41 40  2  0  0  0  0
  41 27  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.13
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     9.1550   12.8090  -20.8020 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4950   11.6340  -20.7860 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.3100   11.2920  -21.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5631,50 +3954,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--48.06
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518515
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 38 40  0  0  0  0  0  0  0  0999 V2000
+ 38 40  0  0  1  0  0  0  0  0999 V2000
     9.1990   12.7970  -21.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3290   11.8750  -20.5980 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8760   11.8660  -20.8240 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5754,50 +4038,11 @@ $$$$
  33 32  2  0  0  0  0
  33 28  1  0  0  0  0
 M  END
->  <act>
-330
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL459597
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccccc3)C(C)(C)C)NC
-
->  <name>
-518515
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccccc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccccc3)[C@H]21)C(C)(C)C
-
->  <score>
--48.04
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.7460   12.4910  -20.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9670   11.3980  -20.4430 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5630   11.2980  -20.8680 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -5886,50 +4131,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--48.03
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.4140   13.7680  -21.9440 C   0  0  2  0  0  0  0  0  0  0  0  0
     9.2050   13.4200  -23.2060 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.6550   13.8800  -23.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6023,50 +4229,11 @@ $$$$
  41 40  2  0  0  0  0
  41 27  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--48.03
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.3480   13.9010  -21.7990 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.9900   13.6450  -23.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.4490   14.1060  -23.1360 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6143,50 +4310,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--47.88
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.6620   12.9260  -20.8570 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9970   11.7550  -20.9220 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8290   11.4640  -21.7700 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6263,50 +4391,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--47.71
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     9.0980   12.7970  -20.8220 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4340   11.6240  -20.7860 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2150   11.2920  -21.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6395,50 +4484,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--47.68
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     9.1890   12.8490  -21.0520 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3810   11.8180  -20.7360 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0100   11.6210  -21.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6527,50 +4577,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--47.63
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312326
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 46 47  0  0  0  0  0  0  0  0999 V2000
+ 46 47  0  0  1  0  0  0  0  0999 V2000
     9.8100    9.9290  -20.0280 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4290   10.5050  -19.8590 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.3700    9.5850  -20.4950 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6665,50 +4676,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-360
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363770
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@H](C)[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312326
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)[C@@]([H])(C)CC)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--47.34
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 515657
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 43 47  0  0  0  0  0  0  0  0999 V2000
+ 43 47  0  0  1  0  0  0  0  0999 V2000
     8.8750   15.1500  -20.8110 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4890   13.8730  -21.4150 C   0  0  1  0  0  0  0  0  0  0  0  0
     9.2570   13.7200  -22.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6800,50 +4772,11 @@ $$$$
  39 38  2  0  0  0  0
  39 29  1  0  0  0  0
 M  END
->  <act>
-690
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL515848
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H]1Cc2ccccc2[C@H]3CCC[C@H](N3C1=O)C(=O)NC(c4ccccc4)c5ccccc5)NC
-
->  <name>
-515657
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)[C@@]([H])(C)NC)Cc2ccccc2[C@@]2([H])CCC[C@@]([H])(C(=O)NC(c3ccccc3)c3ccccc3)N2C1=O
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H]1Cc2ccccc2[C@H]2CCC[C@@H](C(=O)NC(c3ccccc3)c3ccccc3)N2C1=O
-
->  <score>
--47.18
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518145
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 41 44  0  0  0  0  0  0  0  0999 V2000
+ 41 44  0  0  1  0  0  0  0  0999 V2000
     8.9330   12.7660  -21.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1730   11.6580  -21.1640 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9590   11.5140  -21.9870 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -6930,50 +4863,11 @@ $$$$
  35 30  1  0  0  0  0
  36 29  1  0  0  0  0
 M  END
->  <act>
-210
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL458540
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3ccc(c4c3cccc4)F)C(C)(C)C)NC
-
->  <name>
-518145
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2ccc(F)c3ccccc23)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3ccc(F)c4ccccc34)[C@H]21)C(C)(C)C
-
->  <score>
--47.18
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312409
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 45 46  0  0  0  0  0  0  0  0999 V2000
+ 45 46  0  0  1  0  0  0  0  0999 V2000
     9.8480    9.9270  -19.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3690   10.1810  -19.7890 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.7090    9.1060  -20.6740 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7066,50 +4960,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-900
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL186819
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CCCC[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312409
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)C(C)C
-
->  <rdkit_smiles_template>
-CCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--47.16
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.4440   13.8920  -21.5470 C   0  0  2  0  0  0  0  0  0  0  0  0
     9.0530   13.6650  -22.9320 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.5780   13.7300  -22.8350 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7186,50 +5041,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--47.16
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
    10.0850    9.3410  -20.5130 N   0  0  0  0  0  0  0  0  0  0  0  0
    11.5110    9.0290  -20.3980 C   0  0  1  0  0  0  0  0  0  0  0  0
    11.6890    7.8020  -19.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7323,50 +5139,11 @@ $$$$
  40 31  1  0  0  0  0
  41 40  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1C[C@]([H])(Oc2ccccc2)C[C@@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--46.97
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312211
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 45 46  0  0  0  0  0  0  0  0999 V2000
+ 45 46  0  0  1  0  0  0  0  0999 V2000
     8.6240   12.4670  -20.3470 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.8190   11.3890  -20.4270 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.6550   11.2440  -21.3050 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7459,50 +5236,11 @@ $$$$
  39 31  2  0  0  0  0
  40 31  1  0  0  0  0
 M  END
->  <act>
-280
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL186839
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc2ccc(cc2)O)C(=O)O)N
-
->  <name>
-312211
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@]([H])(CC(C)C)NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)C(=O)O
-
->  <rdkit_smiles_template>
-CC(C)C[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--46.94
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303244
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 38  0  0  0  0  0  0  0  0999 V2000
+ 36 38  0  0  1  0  0  0  0  0999 V2000
     8.8120   12.6530  -20.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0620   11.5340  -20.5220 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8650   11.3110  -21.3370 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7578,50 +5316,11 @@ $$$$
  33 32  2  0  0  0  0
  33 23  1  0  0  0  0
 M  END
->  <act>
-28
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL180204
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NC(c2ccccc2)c3ccccc3)N
-
->  <name>
-303244
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NC(c1ccccc1)c1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NC(c1ccccc1)c1ccccc1
-
->  <score>
--46.93
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518406
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 42  0  0  0  0  0  0  0  0999 V2000
+ 39 42  0  0  1  0  0  0  0  0999 V2000
     8.8380   12.6910  -20.6220 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0800   11.5780  -20.6770 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9330   11.3660  -21.5780 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7704,50 +5403,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-640
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL517406
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3coc4c3cccc4)C(C)(C)C)NC
-
->  <name>
-518406
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2coc3ccccc23)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3coc4ccccc34)[C@H]21)C(C)(C)C
-
->  <score>
--46.80
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 570387
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 43 46  0  0  0  0  0  0  0  0999 V2000
+ 43 46  0  0  1  0  0  0  0  0999 V2000
     8.7840   15.3670  -21.2250 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.3200   14.1900  -21.9660 C   0  0  1  0  0  0  0  0  0  0  0  0
     9.2500   13.9560  -23.1400 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -7838,50 +5498,11 @@ $$$$
  38 37  2  0  0  0  0
  38 28  1  0  0  0  0
 M  END
->  <act>
-100
-
->  <act_rel>
-=
-
->  <act_type>
-IC50
-
->  <chembl_id>
-CHEMBL575805
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@H]1[C@H](CC[C@H]2CC[C@H](N2C1=O)C(=O)NC(c3ccccc3)c4ccccc4)CCO)NC
-
->  <name>
-570387
-
->  <rdkit_smiles>
-[H][C@]12CC[C@@]([H])(C(=O)NC(c3ccccc3)c3ccccc3)N1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(CC)NC)[C@@]([H])(CCO)CC2
-
->  <rdkit_smiles_template>
-CC[C@H](NC)C(=O)N[C@@H]1C(=O)N2[C@H](CC[C@H]2C(=O)NC(c2ccccc2)c2ccccc2)CC[C@@H]1CCO
-
->  <score>
--46.64
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312101
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 48 50  0  0  0  0  0  0  0  0999 V2000
+ 48 50  0  0  1  0  0  0  0  0999 V2000
     8.9570   12.5830  -20.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2410   11.4420  -20.5550 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9850   11.2150  -21.2890 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -7981,50 +5602,11 @@ $$$$
  42 34  2  0  0  0  0
  43 34  1  0  0  0  0
 M  END
->  <act>
-60
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL189145
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)O)N
-
->  <name>
-312101
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@]([H])(Cc1ccccc1)NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)C(=O)O
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--46.55
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518220
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 38  0  0  0  0  0  0  0  0999 V2000
+ 36 38  0  0  1  0  0  0  0  0999 V2000
     8.9480   12.7050  -20.9400 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2170   11.5790  -21.0570 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0650   11.3930  -21.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8100,50 +5682,11 @@ $$$$
  31 26  1  0  0  0  0
  31 30  2  0  0  0  0
 M  END
->  <act>
-500
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL456418
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)c3ccccc3)C(C)(C)C)NC
-
->  <name>
-518220
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)c2ccccc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3ccccc3)[C@H]21)C(C)(C)C
-
->  <score>
--46.51
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303269
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 37 39  0  0  0  0  0  0  0  0999 V2000
+ 37 39  0  0  1  0  0  0  0  0999 V2000
     8.7220   12.7750  -20.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9220   11.6950  -20.4210 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.6140   11.6470  -21.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8221,50 +5764,11 @@ $$$$
  34 33  2  0  0  0  0
  34 24  1  0  0  0  0
 M  END
->  <act>
-24
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL181479
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NC(c2ccccc2)c3ccccc3)N
-
->  <name>
-303269
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@]([H])(N)CC)(C(=O)N1CCC[C@]1([H])C(=O)NC(c1ccccc1)c1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](N)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC(c1ccccc1)c1ccccc1)C(C)C
-
->  <score>
--46.44
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.4440   12.8610  -20.3840 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0610   11.5700  -20.4490 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.1830   10.9760  -21.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8358,50 +5862,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--46.36
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518516
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 39 41  0  0  0  0  0  0  0  0999 V2000
+ 39 41  0  0  1  0  0  0  0  0999 V2000
     9.1250   12.7260  -20.8140 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4880   11.5400  -20.7410 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.2230   11.2030  -21.4180 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8483,50 +5948,11 @@ $$$$
  33 28  1  0  0  0  0
  34 31  1  0  0  0  0
 M  END
->  <act>
-580
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL517556
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccc(cc3)F)C(C)(C)C)NC
-
->  <name>
-518516
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccc(F)cc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccc(F)cc3)[C@H]21)C(C)(C)C
-
->  <score>
--46.35
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312185
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 43 44  0  0  0  0  0  0  0  0999 V2000
+ 43 44  0  0  1  0  0  0  0  0999 V2000
     8.2590   13.7210  -21.2280 C   0  0  1  0  0  0  0  0  0  0  0  0
     8.8610   12.5080  -20.5660 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.9870   12.5560  -20.1200 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8615,50 +6041,11 @@ $$$$
  37 34  2  0  0  0  0
  38 34  1  0  0  0  0
 M  END
->  <act>
-900
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL189202
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)C(=O)O)N
-
->  <name>
-312185
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccccc1)(NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)C(=O)N[C@]([H])(C(=O)O)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)O
-
->  <score>
--46.20
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312286
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 46 48  0  0  0  0  0  0  0  0999 V2000
+ 46 48  0  0  1  0  0  0  0  0999 V2000
     8.9950   12.6150  -20.6380 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3030   11.4590  -20.5880 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0220   10.9680  -21.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8754,50 +6141,11 @@ $$$$
  41 33  2  0  0  0  0
  42 33  1  0  0  0  0
 M  END
->  <act>
-120
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL186755
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)O)N
-
->  <name>
-312286
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@]([H])(Cc1ccccc1)NC(=O)C1CCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)C(=O)O
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC1C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--46.18
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 392326
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 33 33  0  0  0  0  0  0  0  0999 V2000
+ 33 33  0  0  1  0  0  0  0  0999 V2000
     9.6610    9.6500  -20.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3270   10.2300  -19.8600 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.1970    9.2410  -20.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8865,50 +6213,11 @@ $$$$
  27 26  1  0  0  0  0
  28 26  1  0  0  0  0
 M  END
->  <act>
-40
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL234346
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-392326
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)O)[C@@]([H])(C)CC)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)O
-
->  <score>
--46.16
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.2270   13.9810  -21.8220 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.8160   13.6160  -23.1870 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.3420   13.7190  -23.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8985,50 +6294,11 @@ $$$$
  34 29  1  0  0  0  0
  34 33  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--46.10
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
    10.1140    9.0810  -21.4150 N   0  0  0  0  0  0  0  0  0  0  0  0
    11.4360    8.8580  -22.0080 C   0  0  1  0  0  0  0  0  0  0  0  0
    12.2520    7.9480  -21.0920 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9117,50 +6387,11 @@ $$$$
  38 31  1  0  0  0  0
  39 38  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(C(=O)NC2CCCc3ccccc32)C[C@@]([H])(Oc2ccccc2)CN1C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--46.06
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312229
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 33 34  0  0  0  0  0  0  0  0999 V2000
+ 33 34  0  0  1  0  0  0  0  0999 V2000
     8.8320   12.7940  -20.5930 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0820   11.6730  -20.6150 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9270   11.4230  -21.4780 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9229,50 +6460,11 @@ $$$$
  30 29  2  0  0  0  0
  30 25  1  0  0  0  0
 M  END
->  <act>
-160
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL189071
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCCc2ccccc2)C(C)(C)C)NC
-
->  <name>
-312229
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NCCc1ccccc1)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCCc1ccccc1)C(C)(C)C
-
->  <score>
--46.06
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.8430   12.6120  -20.4940 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1160   11.4790  -20.4330 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.6810   11.3650  -20.7340 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9361,50 +6553,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--45.88
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312326
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 46 47  0  0  0  0  0  0  0  0999 V2000
+ 46 47  0  0  1  0  0  0  0  0999 V2000
     9.5180    9.6180  -20.1690 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1500   10.1610  -19.8490 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.0690    9.1720  -20.3150 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9499,50 +6652,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-360
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363770
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@H](C)[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312326
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)[C@@]([H])(C)CC)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--45.75
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     7.8230   13.7950  -21.2580 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.1680   13.4900  -22.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.6850   13.3620  -22.8660 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9636,50 +6750,11 @@ $$$$
  41 40  2  0  0  0  0
  41 27  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--45.74
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312366
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 47 49  0  0  0  0  0  0  0  0999 V2000
+ 47 49  0  0  1  0  0  0  0  0999 V2000
     8.6670   12.4550  -20.1010 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2670   11.1830  -20.2920 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9740   10.7520  -20.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9777,50 +6852,11 @@ $$$$
  41 33  2  0  0  0  0
  42 33  1  0  0  0  0
 M  END
->  <act>
-30
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL360607
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](c2ccccc2)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)O)N
-
->  <name>
-312366
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@@]([H])(NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)c1ccccc1)C(=O)O
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O)c1ccccc1
-
->  <score>
--45.70
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.1970   13.7300  -21.2580 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.6760   13.6980  -22.7110 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.1290   14.1740  -22.7810 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -9897,50 +6933,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--45.57
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312409
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 45 46  0  0  0  0  0  0  0  0999 V2000
+ 45 46  0  0  1  0  0  0  0  0999 V2000
     9.8500    9.6870  -20.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.5030   10.2060  -20.1680 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.4000    9.2090  -20.5840 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10033,50 +7030,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-900
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL186819
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CCCC[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312409
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)C(C)C
-
->  <rdkit_smiles_template>
-CCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--45.55
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312409
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 45 46  0  0  0  0  0  0  0  0999 V2000
+ 45 46  0  0  1  0  0  0  0  0999 V2000
     9.6740    9.6310  -20.3570 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.3720   10.2000  -19.8560 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.2210    9.2280  -20.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10169,50 +7127,11 @@ $$$$
  39 38  1  0  0  0  0
  40 38  1  0  0  0  0
 M  END
->  <act>
-900
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL186819
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CCCC[C@@H](C(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-312409
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O)C(C)C
-
->  <rdkit_smiles_template>
-CCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--45.51
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.6990   12.7600  -20.5220 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9260   11.6570  -20.4750 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7160   11.4190  -21.2840 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10289,50 +7208,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--45.47
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 570394
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.8060   15.3520  -21.2040 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.3420   14.1720  -21.9360 C   0  0  1  0  0  0  0  0  0  0  0  0
     9.2760   13.9250  -23.1040 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -10421,50 +7301,11 @@ $$$$
  37 36  2  0  0  0  0
  37 27  1  0  0  0  0
 M  END
->  <act>
-200
-
->  <act_rel>
-=
-
->  <act_type>
-IC50
-
->  <chembl_id>
-CHEMBL573309
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@H]1[C@H](CC[C@H]2CC[C@H](N2C1=O)C(=O)NC(c3ccccc3)c4ccccc4)CO)NC
-
->  <name>
-570394
-
->  <rdkit_smiles>
-[H][C@]12CC[C@@]([H])(C(=O)NC(c3ccccc3)c3ccccc3)N1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(CC)NC)[C@@]([H])(CO)CC2
-
->  <rdkit_smiles_template>
-CC[C@H](NC)C(=O)N[C@@H]1C(=O)N2[C@@H](CC[C@@H]1CO)CC[C@H]2C(=O)NC(c1ccccc1)c1ccccc1
-
->  <score>
--45.37
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312229
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 33 34  0  0  0  0  0  0  0  0999 V2000
+ 33 34  0  0  1  0  0  0  0  0999 V2000
     8.5580   13.9530  -21.5400 C   0  0  1  0  0  0  0  0  0  0  0  0
     8.8860   12.8120  -20.6110 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.8050   12.9120  -19.8280 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10533,50 +7374,11 @@ $$$$
  30 29  2  0  0  0  0
  30 25  1  0  0  0  0
 M  END
->  <act>
-160
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL189071
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCCc2ccccc2)C(C)(C)C)NC
-
->  <name>
-312229
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NCCc1ccccc1)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCCc1ccccc1)C(C)(C)C
-
->  <score>
--45.19
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312281
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 42 45  0  0  0  0  0  0  0  0999 V2000
+ 42 45  0  0  1  0  0  0  0  0999 V2000
     8.8850   12.5050  -20.3890 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1460   11.3770  -20.4010 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7350   11.2810  -20.8020 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10665,50 +7467,11 @@ $$$$
  39 38  2  0  0  0  0
  39 34  1  0  0  0  0
 M  END
->  <act>
-5
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL365298
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@H](C(=O)N1C[C@H](C[C@H]1C(=O)NC2CCCc3c2cccc3)Oc4ccccc4)C(C)(C)C)NC
-
->  <name>
-312281
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@]([H])(NC(=O)C(C)NC)C(C)(C)C)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--45.17
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 518515
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 38 40  0  0  0  0  0  0  0  0999 V2000
+ 38 40  0  0  1  0  0  0  0  0999 V2000
     9.2100   12.7240  -20.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.5640   11.5410  -20.9610 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.3730   11.2540  -21.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10788,50 +7551,11 @@ $$$$
  33 32  2  0  0  0  0
  33 28  1  0  0  0  0
 M  END
->  <act>
-330
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL459597
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@H](CC2)NC(=O)N(C)c3ccccc3)C(C)(C)C)NC
-
->  <name>
-518515
-
->  <rdkit_smiles>
-[H][C@]1(NC(=O)N(C)c2ccccc2)CC[C@]2([H])CCN(C(=O)[C@]([H])(NC(=O)[C@@]([H])(C)NC)C(C)(C)C)[C@@]12[H]
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)N(C)c3ccccc3)[C@H]21)C(C)(C)C
-
->  <score>
--45.12
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312335
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 44 48  0  0  0  0  0  0  0  0999 V2000
+ 44 48  0  0  1  0  0  0  0  0999 V2000
     8.8820   13.0200  -20.6100 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.2630   11.8230  -20.6220 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0730   11.4700  -21.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10925,50 +7649,11 @@ $$$$
  41 40  2  0  0  0  0
  41 36  1  0  0  0  0
 M  END
->  <act>
-6
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188510
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H](C[C@H]2C(=O)NC3CCCc4c3cccc4)Oc5ccccc5)NC
-
->  <name>
-312335
-
->  <rdkit_smiles>
-[H][C@@]1(Oc2ccccc2)CN(C(=O)[C@@]([H])(NC(=O)C(C)NC)C2CCCCC2)[C@@]([H])(C(=O)NC2CCCc3ccccc32)C1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1C[C@@H](Oc2ccccc2)C[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--45.06
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 392326
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 33 33  0  0  0  0  0  0  0  0999 V2000
+ 33 33  0  0  1  0  0  0  0  0999 V2000
     9.7990    9.9030  -20.1880 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4510   10.4920  -19.8620 C   0  0  2  0  0  0  0  0  0  0  0  0
     7.3180    9.6020  -20.4070 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11036,50 +7721,11 @@ $$$$
  27 26  1  0  0  0  0
  28 26  1  0  0  0  0
 M  END
->  <act>
-40
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL234346
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](C(C)C)NC(=O)[C@H](C)N
-
->  <name>
-392326
-
->  <rdkit_smiles>
-[H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)O)[C@@]([H])(C)CC)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)O
-
->  <score>
--45.04
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303354
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 30 31  0  0  0  0  0  0  0  0999 V2000
+ 30 31  0  0  1  0  0  0  0  0999 V2000
     8.7260   12.6030  -20.3200 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.4030   11.3360  -20.6450 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.6940   10.8600  -21.8490 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11142,50 +7788,11 @@ $$$$
  27 26  2  0  0  0  0
  27 22  1  0  0  0  0
 M  END
->  <act>
-290
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL426052
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccccc2)N
-
->  <name>
-303354
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1
-
->  <score>
--45.03
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.3390   13.8980  -21.6030 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.9520   13.6950  -22.9900 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.5120   14.8330  -23.9130 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11262,50 +7869,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--45.01
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303354
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 30 31  0  0  0  0  0  0  0  0999 V2000
+ 30 31  0  0  1  0  0  0  0  0999 V2000
     8.6980   12.4230  -20.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9720   11.2920  -20.5710 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7650   11.1140  -21.4000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11368,50 +7936,11 @@ $$$$
  27 22  1  0  0  0  0
  27 26  2  0  0  0  0
 M  END
->  <act>
-290
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL426052
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccccc2)N
-
->  <name>
-303354
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1
-
->  <score>
--44.98
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303354
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 30 31  0  0  0  0  0  0  0  0999 V2000
+ 30 31  0  0  1  0  0  0  0  0999 V2000
     8.6660   12.4770  -20.0530 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9000   11.3790  -20.2080 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.5550   11.3400  -20.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11474,50 +8003,11 @@ $$$$
  27 26  2  0  0  0  0
  27 22  1  0  0  0  0
 M  END
->  <act>
-290
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL426052
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccccc2)N
-
->  <name>
-303354
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1
-
->  <score>
--44.98
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312185
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 43 44  0  0  0  0  0  0  0  0999 V2000
+ 43 44  0  0  1  0  0  0  0  0999 V2000
     8.5350   13.8040  -21.4240 C   0  0  1  0  0  0  0  0  0  0  0  0
     8.8960   12.6220  -20.5610 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.8480   12.6860  -19.8120 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11606,50 +8096,11 @@ $$$$
  37 34  2  0  0  0  0
  38 34  1  0  0  0  0
 M  END
->  <act>
-900
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL189202
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)C(=O)O)N
-
->  <name>
-312185
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccccc1)(NC(=O)[C@@]1([H])CCCN1C(=O)[C@@]([H])(NC(=O)[C@@]([H])(C)N)C(C)C)C(=O)N[C@]([H])(C(=O)O)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)O
-
->  <score>
--44.94
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 570377
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 41 44  0  0  0  0  0  0  0  0999 V2000
+ 41 44  0  0  1  0  0  0  0  0999 V2000
     8.6770   15.1370  -20.8240 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.9660   14.0150  -21.4430 C   0  0  1  0  0  0  0  0  0  0  0  0
     8.4340   13.8750  -22.8780 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -11736,50 +8187,11 @@ $$$$
  36 35  2  0  0  0  0
  36 26  1  0  0  0  0
 M  END
->  <act>
-270
-
->  <act_rel>
-=
-
->  <act_type>
-IC50
-
->  <chembl_id>
-CHEMBL573550
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@H]1[C@H](CC[C@H]2CC[C@H](N2C1=O)C(=O)NC(c3ccccc3)c4ccccc4)CO)N
-
->  <name>
-570377
-
->  <rdkit_smiles>
-[H][C@]12CC[C@@]([H])(C(=O)NC(c3ccccc3)c3ccccc3)N1C(=O)[C@@]([H])(NC(=O)[C@]([H])(N)CC)[C@@]([H])(CO)CC2
-
->  <rdkit_smiles_template>
-CC[C@H](N)C(=O)N[C@@H]1C(=O)N2[C@@H](CC[C@@H]1CO)CC[C@H]2C(=O)NC(c1ccccc1)c1ccccc1
-
->  <score>
--44.84
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312080
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 35 37  0  0  0  0  0  0  0  0999 V2000
+ 35 37  0  0  1  0  0  0  0  0999 V2000
     8.8690   12.8070  -20.5580 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1310   11.6790  -20.5950 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7190   11.5840  -20.9730 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11853,50 +8265,11 @@ $$$$
  32 27  1  0  0  0  0
  32 31  2  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188062
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC2CCCc3c2cccc3)C(C)(C)C)NC
-
->  <name>
-312080
-
->  <rdkit_smiles>
-[H][C@](C)(NC)C(=O)N[C@@]([H])(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <rdkit_smiles_template>
-CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C(C)(C)C
-
->  <score>
--44.82
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303123
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 29 30  0  0  0  0  0  0  0  0999 V2000
+ 29 30  0  0  1  0  0  0  0  0999 V2000
     8.7320   12.5380  -20.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.9400   11.4610  -20.4050 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.7470   11.3950  -21.2530 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -11957,50 +8330,11 @@ $$$$
  26 22  1  0  0  0  0
  26 25  1  0  0  0  0
 M  END
->  <act>
-220
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL182034
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccco2)N
-
->  <name>
-303123
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@@]([H])(C)N)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccco1)C(C)C
-
->  <rdkit_smiles_template>
-CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)NCc1ccco1
-
->  <score>
--44.79
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303236
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 31 32  0  0  0  0  0  0  0  0999 V2000
+ 31 32  0  0  1  0  0  0  0  0999 V2000
     8.7250   12.8370  -20.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0810   11.6540  -20.6300 N   0  0  0  0  0  0  0  0  0  0  0  0
     7.0700   11.1990  -21.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12065,50 +8399,11 @@ $$$$
  28 23  1  0  0  0  0
  28 27  2  0  0  0  0
 M  END
->  <act>
-81
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL361542
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccccc2)N
-
->  <name>
-303236
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@]([H])(N)CC)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](N)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1)C(C)C
-
->  <score>
--44.77
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
    10.3710    9.3920  -20.2520 N   0  0  0  0  0  0  0  0  0  0  0  0
    11.8070    9.1410  -20.1020 C   0  0  1  0  0  0  0  0  0  0  0  0
    12.0150    7.9440  -19.1780 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12185,50 +8480,11 @@ $$$$
  34 27  1  0  0  0  0
  34 28  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--44.71
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 570379
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 49 53  0  0  0  0  0  0  0  0999 V2000
+ 49 53  0  0  1  0  0  0  0  0999 V2000
     8.8260   15.3310  -21.2070 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.3290   14.1640  -21.9400 C   0  0  1  0  0  0  0  0  0  0  0  0
     9.2560   13.8940  -23.1080 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -12332,50 +8588,11 @@ $$$$
  44 43  2  0  0  0  0
  44 34  1  0  0  0  0
 M  END
->  <act>
-110
-
->  <act_rel>
-=
-
->  <act_type>
-IC50
-
->  <chembl_id>
-CHEMBL584393
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@H]1[C@H](CC[C@H]2CC[C@H](N2C1=O)C(=O)NC(c3ccccc3)c4ccccc4)CNC(=O)c5ccccc5)N
-
->  <name>
-570379
-
->  <rdkit_smiles>
-[H][C@]12CC[C@@]([H])(C(=O)NC(c3ccccc3)c3ccccc3)N1C(=O)[C@@]([H])(NC(=O)[C@]([H])(N)CC)[C@@]([H])(CNC(=O)c1ccccc1)CC2
-
->  <rdkit_smiles_template>
-CC[C@H](N)C(=O)N[C@@H]1C(=O)N2[C@H](CC[C@H]2C(=O)NC(c2ccccc2)c2ccccc2)CC[C@@H]1CNC(=O)c1ccccc1
-
->  <score>
--44.63
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312123
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 45 47  0  0  0  0  0  0  0  0999 V2000
+ 45 47  0  0  1  0  0  0  0  0999 V2000
     8.7820   12.3840  -20.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0660   11.2500  -20.5050 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.8470   11.0770  -21.3120 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12469,50 +8686,11 @@ $$$$
  40 32  2  0  0  0  0
  41 32  1  0  0  0  0
 M  END
->  <act>
-290
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL188934
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-C[C@@H](C(=O)NC(C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](Cc3ccc(cc3)O)C(=O)O)N
-
->  <name>
-312123
-
->  <rdkit_smiles>
-[H][C@@](Cc1ccc(O)cc1)(NC(=O)[C@]([H])(Cc1ccccc1)NC(=O)[C@@]1([H])CCCN1C(=O)C(C)NC(=O)[C@@]([H])(C)N)C(=O)O
-
->  <rdkit_smiles_template>
-CC(NC(=O)[C@H](C)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
-
->  <score>
--44.58
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 312370
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 36 39  0  0  0  0  0  0  0  0999 V2000
+ 36 39  0  0  1  0  0  0  0  0999 V2000
     8.8830   12.8220  -20.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.1660   11.6820  -20.6380 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.9710   11.3870  -21.4450 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12589,50 +8767,11 @@ $$$$
  34 33  2  0  0  0  0
  34 29  1  0  0  0  0
 M  END
->  <act>
-10
-
->  <act_rel>
-=
-
->  <act_type>
-Kd
-
->  <chembl_id>
-CHEMBL363529
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC(C(=O)N[C@@H](C1CCCCC1)C(=O)N2CCC[C@H]2C(=O)NC3CCCc4c3cccc4)NC
-
->  <name>
-312370
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)C(C)NC)(C(=O)N1CCC[C@]1([H])C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <rdkit_smiles_template>
-CNC(C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NC1CCCc2ccccc21)C1CCCCC1
-
->  <score>
--44.56
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
 303236
- OpenBabel10071615073D
+ OpenBabel10241621293D
 
- 31 32  0  0  0  0  0  0  0  0999 V2000
+ 31 32  0  0  1  0  0  0  0  0999 V2000
     8.8130   12.7910  -20.4910 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.0350   11.6920  -20.5480 N   0  0  0  0  0  0  0  0  0  0  0  0
     6.6800   11.6210  -21.0990 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12697,43 +8836,4 @@ $$$$
  28 23  1  0  0  0  0
  28 27  2  0  0  0  0
 M  END
->  <act>
-81
-
->  <act_rel>
-=
-
->  <act_type>
-Ki
-
->  <chembl_id>
-CHEMBL361542
-
->  <dude_id>
-xiap
-
->  <dude_smiles>
-CC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)NCc2ccccc2)N
-
->  <name>
-303236
-
->  <rdkit_smiles>
-[H][C@@](NC(=O)[C@]([H])(N)CC)(C(=O)N1CCC[C@]1([H])C(=O)NCc1ccccc1)C(C)C
-
->  <rdkit_smiles_template>
-CC[C@H](N)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1)C(C)C
-
->  <score>
--44.40
-
->  <subset>
-actives
-
->  <uniprot_id>
-P98170
-
->  <unit>
-nM
-
 $$$$
