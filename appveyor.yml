@@ -89,6 +89,11 @@ install:
     - curl -L -o upx.zip http://libgd.blob.core.windows.net/upx/upx391w.zip && 7z e upx.zip *.exe -r
     - curl -L -o RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_sklearn.pickle
 
+    # Convert molecules to all supported formats
+    - obabel test\xiap\actives_docked.sdf -O test\xiap\actives_docked.mol2
+    - obabel test\xiap\actives_docked.sdf -O test\xiap\actives_docked.pdbqt
+    - obabel test\xiap\actives_docked.sdf -O test\xiap\actives_docked.pdb
+
 
 build: false
 
@@ -114,6 +119,9 @@ test_script:
   - deactivate
   - dist\rf-score-vs.exe --help
   - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv
 artifacts:
   # Archive the generated conda package in the ci.appveyor.com build report.
   - path: .\dist\rf-score-vs.exe

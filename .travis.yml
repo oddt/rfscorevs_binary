@@ -48,6 +48,11 @@ before_install:
 
     - wget http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle
 
+    # Convert molecules to all supported formats
+    - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.mol2
+    - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.pdbqt
+    - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.pdb
+
 install:
     - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then ./pyinstaller_linux.sh; else ./pyinstaller_macos.sh; fi;
     - ls -lh dist/
@@ -56,6 +61,9 @@ install:
 script:
     - dist/rf-score-vs --help
     - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv
     - export RFVS_VER=`dist/rf-score-vs --version 2>&1 | cut -d' ' -f2`
     - echo $RFVS_VER
 
