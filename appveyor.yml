@@ -87,9 +87,9 @@ install:
     - cd ..
 
     - curl -L -o upx.zip http://libgd.blob.core.windows.net/upx/upx391w.zip && 7z e upx.zip *.exe -r
-    - curl -L -o RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle
-    
-    
+    - curl -L -o RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_sklearn.pickle
+
+
 build: false
 
 test_script:
