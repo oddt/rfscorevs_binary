@@ -101,7 +101,7 @@ test_script:
         --hidden-import=compiledtrees ^
         --runtime-hook pyi_rth_obdata.py ^
         --add-data "./RFScoreVS_v2_vina.pickle;." ^
-        --add-binary "%CONDA_PREFIX%\Library\bin\mkl_avx.dll;." ^
+        --add-binary "%CONDA_PREFIX%\Library\bin\mkl_def.dll;." ^
         --add-binary "%CONDA_PREFIX%\Library\bin\formats_*.obf;." ^
         --add-binary "%CONDA_PREFIX%\Library\bin\plugin_*.obf;." ^
         --add-data "%CONDA_PREFIX%\share\openbabel\*;data" ^
