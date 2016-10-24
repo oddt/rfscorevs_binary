@@ -42,7 +42,7 @@ before_install:
     - gcc -v
     - git clone -b python3 https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
-    - python setup.py setup.py build_ext
+    - python setup.py build_ext --compiler=unix
     - python setup.py install
     - cd ..
 
