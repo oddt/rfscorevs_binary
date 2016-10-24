@@ -5,7 +5,7 @@ os:
 env:
   matrix:
   - CONDA_PY=2.7
-  - CONDA_PY=3.5
+  #- CONDA_PY=3.5
   global:
   - secure: "hUMsbIUnYsPNs1cTAeuS0YH8ll3aSMRR/eFJ8OOsQfUX5CAIYQNEHw5qq+jTZqXt4TDLURheujlNv8g/oOhDnzlExXSNawx1tca4VOMq10jVaZhNJE8PIwlwUknKUsyUT/IQ94gL4IGKsU/LWYjWimwANLw1Q1pZ8KsVU5/gsR/b9xIZN+06kRTNvJCW92mNLIH6j4e0/tu234ExBI3dFizEHEx4hXLgIf18CK4R6xus/tR9Mxj9qaPUnz7GSiP0HdaNti2Z7wkQxx+9VyAsy8oOwG14T7TGV8xRYq5cAIZbgmW1z9yA9bgVnut3YdVSelpGINQDIrW4mGpwr248ViHUYU2tSPyZDz/rveWMGC28uIqSW6C3PriM0U3hK06AhuWpFcGCwWcQLegb2EdrQBgXkv7JKnJwipouLHRPU6GAK4DlIl7LmRRUF5cKgrZUfezFoJl0TYNb9foGmsCom+4PZOcEFAmwqL2u3+NDStCBisEBktnV7yl6Vcf4Cw5qZna0El/qhpwN4VHZ2makBq0jo3pC8g3Nh3woYbo+UgDy0H7n7RZl4oXFDHiKK6tZN3hEgvMIWkZd/2puQN8HV1X+kyILl7oy/6bzP9ZMG1FoyUph64M7VBSOE0pCD9Cm1AkDEKmxnVyeYONy4Axsfv98L3yEbe6NgJg5+pTZ2LY="
   - secure: "NWTlWkDhY1H2QdpioAcdJC0BIcaSIOTlctzhnH5FLkEmUteWklnIDgcKMWW1U/Vl/mzJmpkovRVztpfGIhsxn4dHa/0/KqnXM4vUzcEu3ILEsStX+iUc5OgQYfxb+shJebl2BPWwl3Dv0jqJyNQSZebp5myq05GJX37GK3l7xG8jQV/yVm1bu1sy2Ho4wPyIafIMIJyoKmzcFBINXXny8nNXwERWg0YKVMm6wEA2TfEWHqXwU2WUp2GdRZn00n9U/y/2r96zOjYzGu8ZcJsWujDTHo0XxfK28LGKfE4aZy2KTDY9bBlcOmJsL6CA7MWi8SmO1jNZ8jttrsiKsAZxsx8IqL/rrWDs9agnVO4prH9Fyvg4BZcT1oAYVbaQFYNv2cFwQz/h6YioYjXeUu2oBafz8u9bxwCqvWkUKKXXcKv+fKsRwyk1+Wx3SbEK51Ki+wOpVD5DfHXB+iphy3fNOyAcVujecDC2DoCULILCDDYEyVC4zsQ/aqbD+xljXzo6wubUz96lbsLVNfFpkyANxygnfhfILk5l5eeBqynEZj9cGbJlcAKVmKdnRWEJJwm8qQ/8abKxACSEP7orxBZsZDHXqj1XM1FIvdbAaHUSTchbXVuIuGSnZKjsoBS35OS4MnwOiA8IanlPexMg77+1lnxbVTBVDXzsCVONSC0+mpY="
@@ -26,17 +26,26 @@ before_install:
     - conda create --yes --name oddt_env python=$CONDA_PY
     # - conda env update --name oddt_env --file environment.yml
     - source activate oddt_env
-    - conda install -q six
-    - conda install -q -c mwojcikowski openbabel
-    - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install upx; fi
-    # temp
-    - conda install -q numpy scipy scikit-learn joblib
+    - conda install -q numpy scipy scikit-learn joblib six
     # - conda remove -q mkl
+    - conda install -q -c mwojcikowski openbabel
     - pip install --no-deps git+https://github.com/oddt/oddt.git
+
+    - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install upx; fi
+
     - pip install git+https://github.com/pyinstaller/pyinstaller.git@feb0d271263ca884b91033fd588b79fadf3a3a7f
     # Remove buggy numpy hook instead of @feb0d271263ca884b91033fd588b79fadf3a3a7f
     #- rm -f ${CONDA_PREFIX}/lib/python${CONDA_PY}/site-packages/PyInstaller/hooks/hook-numpy.core.py
-    - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
+
+    # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
+    - conda install -q gcc
+    - gcc -v
+    - git clone https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
+    - cd sklearn-compiledtrees
+    - python setup.py setup.py build_ext --compiler=unix
+    - python setup.py install
+    - cd ..
+
     - wget http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle
 
 install:
