@@ -40,7 +40,7 @@ before_install:
     # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
     - conda install -q gcc
     - gcc -v
-    - git clone https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
+    - git clone -b python3 https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
     - python setup.py setup.py build_ext --compiler=unix
     - python setup.py install
