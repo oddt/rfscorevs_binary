@@ -22,4 +22,5 @@ pyinstaller \
     --strip \
     --add-binary "${CONDA_ROOT}/lib/libinchi.so.0:." \
     --add-binary "${CONDA_ROOT}/lib/libmkl_avx.so:." \
+    --add-binary "${CONDA_ROOT}/lib/libmkl_avx2.so:." \
     -n rf-score-vs --onefile ./rf-score-vs
