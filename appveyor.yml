@@ -129,7 +129,7 @@ test_script:
   - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv
 
   - 7z a rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip .\dist\*
-  - curl --ftp-create-dirs -T rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip -u $FTP_USER:$FTP_PASSWORD ftp://wojcikowski.pl
+  - curl --ftp-create-dirs -T rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip -u %FTP_USER%:%FTP_PASSWORD% ftp://wojcikowski.pl
 artifacts:
   # Archive the generated conda package in the ci.appveyor.com build report.
   - path: .\dist\rf-score-vs.exe
