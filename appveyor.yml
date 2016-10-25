@@ -82,7 +82,7 @@ install:
     # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@windows-compilation
     - git clone -b windows-compilation https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
-    - python setup.py build_ext --compiler=mingw32 --libraries=libdl -L ../dlfcn-win32 -I ../dlfcn-win32
+    - python setup.py build_ext --compiler=mingw32 --libraries=libdl.a -L ../dlfcn-win32 -I ../dlfcn-win32
     - python setup.py install
     - cd ..
 
