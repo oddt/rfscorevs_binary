@@ -79,6 +79,7 @@ install:
     - cd ..
 
     # compiledtrees
+    - gcc -v
     # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@windows-compilation
     - git clone -b windows-compilation https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
