@@ -2,8 +2,8 @@ environment:
   # See README for information on the token
   ANACONDA_TOKEN:
     secure: AaDohlZ5kwkG4ymSAkUVvTIzL1SDr1WMl/0A/07mnOWqcxOTDMqaMTSeDSvlOEZV
-  FTP_USER: wuDqH0Ne8+H5LLA13XOnJc2JhOOAHuCJD0hq8n1Sm0c=
-    secure:
+  FTP_USER:
+    secure: wuDqH0Ne8+H5LLA13XOnJc2JhOOAHuCJD0hq8n1Sm0c=
   FTP_PASSWORD:
     secure: Xonq2cmbnVHxH70z4WD+BDiq/WClXiOYbuKSzaaLzts=
   global:
