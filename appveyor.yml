@@ -73,16 +73,16 @@ install:
     - conda install -q -c conda-forge mingwpy git make
     - git clone https://github.com/dlfcn-win32/dlfcn-win32.git
     - cd dlfcn-win32
-    - bash configure --prefix=%CONDA_PREFIX%/Library #--enable-shared --enable-static
+    - bash configure --prefix=%CONDA_PREFIX%/Library --enable-shared --enable-static
     - make
-    #- copy libdl.dll %CONDA_PREFIX%/libdl.dll
+    - copy libdl.dll %CONDA_PREFIX%/libdl.dll
     - cd ..
 
     # compiledtrees
     # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@windows-compilation
     - git clone -b windows-compilation https://github.com/mwojcikowski/sklearn-compiledtrees.git
     - cd sklearn-compiledtrees
-    - python setup.py build_ext --compiler=mingw32 --libraries=libdl.a -L ../dlfcn-win32 -I ../dlfcn-win32
+    - python setup.py build_ext --compiler=mingw32 --libraries=libdl -L ../dlfcn-win32 -I ../dlfcn-win32
     - python setup.py install
     - cd ..
 
