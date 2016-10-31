@@ -37,18 +37,11 @@ before_install:
     # Remove buggy numpy hook instead of @feb0d271263ca884b91033fd588b79fadf3a3a7f
     #- rm -f ${CONDA_PREFIX}/lib/python${CONDA_PY}/site-packages/PyInstaller/hooks/hook-numpy.core.py
 
-    # - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
-    - conda install -q gcc
-    - gcc -v
-    - git clone -b python3 https://github.com/mwojcikowski/sklearn-compiledtrees.git
-    - cd sklearn-compiledtrees
-    - python setup.py build_ext --compiler=unix
-    - python setup.py install
-    - cd ..
+    - pip install git+https://github.com/mwojcikowski/sklearn-compiledtrees.git@python3
 
     #- wget http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle
     - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then wget -O RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_linux.pickle; else wget -O RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_macos.pickle; fi;
-    
+
     # Convert molecules to all supported formats
     - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.mol2
     - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.pdbqt
