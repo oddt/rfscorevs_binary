@@ -123,11 +123,14 @@ test_script:
         -y -n rf-score-vs --onefile .\rf-score-vs'
   - deactivate
   - dist\rf-score-vs.exe --help
-  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv
-  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv
-  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv
-  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv --field "name" --field "RFScoreVS_v2"
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv --field "name" --field "RFScoreVS_v2"
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv --field "name" --field "RFScoreVS_v2"
+  - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv --field "name" --field "RFScoreVS_v2"
 
+  # Setup bundle
+  - xcopy test\xiap\ .\dist\test\xiap\ /T /E /Y
+  - copy README.md .\dist\
   - 7z a rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip .\dist\*
   - curl --ftp-create-dirs -T rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip -u %FTP_USER%:%FTP_PASSWORD% ftp://wojcikowski.pl
 artifacts:

@@ -54,13 +54,17 @@ install:
 
 script:
     - dist/rf-score-vs --help
-    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv
-    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv
-    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv
-    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv --field "name" --field "RFScoreVS_v2"
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv --field "name" --field "RFScoreVS_v2"
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv --field "name" --field "RFScoreVS_v2"
+    - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv --field "name" --field "RFScoreVS_v2"
     - export RFVS_VER=`dist/rf-score-vs --version 2>&1 | cut -d' ' -f2`
     - echo $RFVS_VER
 
 after_success:
-    - zip -j -r rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip dist/rf-score-vs
+    - mkdir -p ./dist/test/xiap/
+    - cp -r test/xiap/ ./dist/test/xiap/
+    - cp README.md ./dist/
+    - cd dist
+    - zip -r rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip ./*
     - curl --ftp-create-dirs -T rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip -u $FTP_USER:$FTP_PASSWORD ftp://wojcikowski.pl
