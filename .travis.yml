@@ -47,7 +47,8 @@ before_install:
     - cd ..
 
     #- wget http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle
-    - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then wget http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina.pickle; else wget -O RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_sklearn.pickle; fi;
+    - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then wget -O RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_linux.pickle; else wget -O RFScoreVS_v2_vina.pickle http://wojcikowski.pl/rfscorevs/RFScoreVS_v2_vina_macos.pickle; fi;
+    
     # Convert molecules to all supported formats
     - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.mol2
     - obabel test/xiap/actives_docked.sdf -O test/xiap/actives_docked.pdbqt
