@@ -129,7 +129,8 @@ test_script:
   - dist\rf-score-vs.exe  --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv --field "name" --field "RFScoreVS_v2"
 
   # Setup bundle
-  - xcopy test\xiap\ .\dist\test\xiap\ /T /E /Y
+  - mkdir dist\test\
+  - xcopy test\xiap\* dist\test\ /y
   - copy README.md .\dist\
   - 7z a rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip .\dist\*
   - curl --ftp-create-dirs -T rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip -u %FTP_USER%:%FTP_PASSWORD% ftp://wojcikowski.pl

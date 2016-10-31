@@ -28,10 +28,10 @@ To use the scoring function uncompress the archive and open a terminal in the sa
 
 * untagged parameters are treated as docked ligands;
 user can supply multiple molecular files **[required]**
-* `-i` input file format; if not present then based on extension
+* `-i` input file format; if not present then based on extension _[optional]_
 * `--receptor` a protein file; format based on extension **[required]**
-* `-O` output file; if `-o` is not present file format is based on extension
-* `-o` output file format; if `-O` is not present then molecules are printed to standard output
+* `-O` output file; if `-o` is not present file format is based on extension _[optional]_
+* `-o` output file format; if `-O` is not present then molecules are printed to standard output _[optional]_
 
 
 #### Rescoring
@@ -39,13 +39,13 @@ To rescore docked conformations simply run (on Windows omit the leading `./`):
 
 `./rf-score-vs --receptor protein.pdb ligands.sdf -O ligands_rescored.sdf`
 
-Producing CSV files (additional `--field` parameter to limit output columns):
+Producing CSV files, the RF-Score-VS score is appended to "RFScoreVS_v2" column (additional `--field` parameter to limit output columns):
 
 `./rf-score-vs --receptor protein.pdb ligands.sdf -o csv --field "name" --field "RFScoreVS_v2"`
 
 Running test data included with bundle:
 
-`./rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.sdf -ocsv`
+`./rf-score-vs --receptor test/receptor_rdkit.pdb test/actives_docked.sdf -ocsv`
 
 To get the list of all available parameters:
 

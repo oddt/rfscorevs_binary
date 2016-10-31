@@ -62,8 +62,8 @@ script:
     - echo $RFVS_VER
 
 after_success:
-    - mkdir -p ./dist/test/xiap/
-    - cp -r test/xiap/ ./dist/test/xiap/
+    - mkdir -p ./dist/test/
+    - cp -r test/xiap/* ./dist/test/
     - cp README.md ./dist/
     - cd dist
     - zip -r rf-score-vs_v${RFVS_VER}_${TRAVIS_OS_NAME}_${CONDA_PY}.zip ./*
