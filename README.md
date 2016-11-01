@@ -35,6 +35,9 @@ user can supply multiple molecular files **[required]**
 
 
 #### Rescoring
+RF-Score-VS predicitons are in -pK units, which means the higher the score the better.
+To select best binder sort in descending order.
+
 To rescore docked conformations simply run (on Windows omit the leading `./`):
 
 `./rf-score-vs --receptor protein.pdb ligands.sdf -O ligands_rescored.sdf`
