@@ -2,7 +2,7 @@
 
 RF-Score-VS is a novel Random Forest-based scoring function for Virtual Screening which predicts binding affinity.
 Its descriptors are based on RF-Score developed by Pedro Ballester et. al.
-Presented binary implements RF-Score-VS v2, meaning, it counts atoms of certain types within a 12A radius, devided into 2A bins.
+Presented binary implements RF-Score-VS v2, meaning, it counts atoms of certain types within a 12A radius, divided into 2A bins.
 Further information about reported performance in various scenarios and validation across datasets, see the publication in **[article submitted]**
 
 ## Supported platforms
