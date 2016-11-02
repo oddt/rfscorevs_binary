@@ -3,7 +3,7 @@
 RF-Score-VS is a novel Random Forest-based scoring function for Virtual Screening which predicts binding affinity.
 Its descriptors are based on RF-Score developed by Pedro Ballester et. al.
 Presented binary implements RF-Score-VS v2, meaning, it counts atoms of certain types within a 12A radius, devided into 2A bins.
-Further information about reported performance in various scenarios and validation across datasets, see the publication in **[JACS submitted]**
+Further information about reported performance in various scenarios and validation across datasets, see the publication in **[article submitted]**
 
 ## Supported platforms
 
@@ -68,7 +68,7 @@ To get the list of all available parameters:
 
 ## References:
 
-* Wójcikowski M, Ballester P.J, Siedlecki P. Performance of machine-learning scoring functions in structure-based virtual screening. JACS submitted
+* Wójcikowski M, Ballester P.J, Siedlecki P. Performance of machine-learning scoring functions in structure-based virtual screening. article submitted
 
 * Wójcikowski M, Zielenkiewicz P, Siedlecki P. Open Drug Discovery Toolkit (ODDT): a new open-source player in the drug discovery field. J Cheminform. 2015;7: 5317. [doi:10.1186/s13321-015-0078-2](https://dx.doi.org/10.1186/s13321-015-0078-2)
 
