@@ -115,6 +115,7 @@ test_script:
         --add-binary "%CONDA_PREFIX%\Library\bin\mkl_def.dll;." ^
         --add-binary "%CONDA_PREFIX%\Library\bin\formats_*.obf;." ^
         --add-binary "%CONDA_PREFIX%\Library\bin\plugin_*.obf;." ^
+        --add-binary "%CONDA_PREFIX%\Library\bin\libxml2.dll;." ^
         --add-data "%CONDA_PREFIX%\share\openbabel\*;data" ^
         --exclude-module=rdkit ^
         --exclude-module tcl ^
