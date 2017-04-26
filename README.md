@@ -3,13 +3,13 @@
 RF-Score-VS is a novel Random Forest-based scoring function for Virtual Screening which predicts binding affinity.
 Its descriptors are based on RF-Score developed by Pedro Ballester et. al.
 Presented binary implements RF-Score-VS v2, meaning, it counts atoms of certain types within a 12A radius, divided into 2A bins.
-Further information about reported performance in various scenarios and validation across datasets, see the publication in **[article submitted]**
+Further information about reported performance in various scenarios and validation across datasets, see the [publication](https://dx.doi.org/10.1038/srep46710).
 
 ## Supported platforms
 
 * [Linux 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_linux_2.7.zip)
 * [Windows 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_win_2.7.zip)
-* [MacOS 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_macos_2.7.zip)
+* [MacOS 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_osx_2.7.zip)
 
 ## Supported multi-molecular formats:
 
@@ -68,7 +68,7 @@ To get the list of all available parameters:
 
 ## References:
 
-* Wójcikowski M, Ballester P.J, Siedlecki P. Performance of machine-learning scoring functions in structure-based virtual screening. article submitted
+* Wójcikowski M, Ballester PJ, Siedlecki P. Performance of machine-learning scoring functions in structure-based virtual screening. Sci Rep. Nature Publishing Group; 2017;7: 46710. [doi:10.1038/srep46710](https://dx.doi.org/10.1038/srep46710)
 
 * Wójcikowski M, Zielenkiewicz P, Siedlecki P. Open Drug Discovery Toolkit (ODDT): a new open-source player in the drug discovery field. J Cheminform. 2015;7: 5317. [doi:10.1186/s13321-015-0078-2](https://dx.doi.org/10.1186/s13321-015-0078-2)
 
