@@ -53,6 +53,7 @@ install:
     - set "PATH=%CONDA_ROOT%;%CONDA_ROOT%\Scripts;%CONDA_ROOT%\Library\bin;%PATH%"
     - set "CXX=gcc -pthread"
     #- set "PATH=C:\MinGW\bin;%PATH%"
+    - set "RFVS_VER=1.0.1"
     - conda config --set always_yes yes
     - conda update -q conda
     - conda info
@@ -136,8 +137,8 @@ test_script:
   - mkdir dist\test\
   - xcopy test\xiap\* dist\test\ /y
   - copy README.md .\dist\
-  - 7z a rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip .\dist\*
-  - curl --ftp-create-dirs -T rf-score-vs_v1.0_win_%PYTHON_VERSION%.zip -u %FTP_USER%:%FTP_PASSWORD% ftp://wojcikowski.pl
+  - 7z a rf-score-vs_v%RFVS_VER%_win_%PYTHON_VERSION%.zip .\dist\*
+  - curl --ftp-create-dirs -T rf-score-vs_v%RFVS_VER%_win_%PYTHON_VERSION%.zip -u %FTP_USER%:%FTP_PASSWORD% ftp://wojcikowski.pl
 artifacts:
   # Archive the generated conda package in the ci.appveyor.com build report.
   - path: .\dist\rf-score-vs.exe

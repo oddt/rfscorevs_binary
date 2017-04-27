@@ -58,7 +58,7 @@ script:
     - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.mol2 -ocsv --field "name" --field "RFScoreVS_v2"
     - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdbqt -ocsv --field "name" --field "RFScoreVS_v2"
     - time dist/rf-score-vs --receptor test/xiap/receptor_rdkit.pdb test/xiap/actives_docked.pdb -ocsv --field "name" --field "RFScoreVS_v2"
-    - export RFVS_VER=`dist/rf-score-vs --version 2>&1 | cut -d' ' -f2`
+    - export RFVS_VER=`dist/rf-score-vs --version 2>/dev/null | cut -d' ' -f2`
     - echo $RFVS_VER
 
 after_success:
