@@ -5,7 +5,7 @@ pyinstaller \
     --clean \
     --additional-hooks-dir=. \
     --hidden-import=six \
-    --hidden-import=pybel \
+    --hidden-import=oddt.toolkits.ob \
     --hidden-import=sklearn.tree._utils \
     --hidden-import=sklearn.neighbors.typedefs \
     --hidden-import=compiledtrees \
