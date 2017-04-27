@@ -26,7 +26,7 @@ before_install:
     - conda create --yes --name oddt_env python=$CONDA_PY
     # - conda env update --name oddt_env --file environment.yml
     - source activate oddt_env
-    - conda install -q numpy scipy scikit-learn joblib six
+    - conda install -q numpy scipy scikit-learn joblib six pandas
     # - conda remove -q mkl
     - conda install -q -c openbabel openbabel
     - pip install --no-deps git+https://github.com/oddt/oddt.git@0.3.3
