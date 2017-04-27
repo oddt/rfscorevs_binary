@@ -110,6 +110,7 @@ test_script:
         --hidden-import="sklearn.tree._utils" ^
         --hidden-import=sklearn.neighbors.typedefs ^
         --hidden-import=six ^
+        --hidden-import=pybel ^
         --hidden-import=compiledtrees ^
         --runtime-hook pyi_rth_obdata.py ^
         --add-data "./RFScoreVS_v2_vina.pickle;." ^
