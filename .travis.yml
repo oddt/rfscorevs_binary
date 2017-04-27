@@ -17,7 +17,7 @@ addons:
 before_install:
     - ulimit -n 2048
     - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then CONDA_FLAVOUR='Linux'; else CONDA_FLAVOUR='MacOSX'; fi;
-    - wget http://repo.continuum.io/miniconda/Miniconda-latest-${CONDA_FLAVOUR}-x86_64.sh -O miniconda.sh;
+    - wget https://repo.continuum.io/miniconda/Miniconda2-latest-${CONDA_FLAVOUR}-x86_64.sh -O miniconda.sh;
     - bash miniconda.sh -b -p $HOME/miniconda
     - export PATH="$HOME/miniconda/bin:$PATH"
     - conda config --set always_yes yes
