@@ -10,6 +10,8 @@ import joblib
 
 from six.moves import cPickle
 
+import openbabel
+
 import oddt
 from oddt.scoring import scorer
 
