@@ -13,6 +13,7 @@ from six.moves import cPickle
 import openbabel
 
 import oddt
+from oddt.toolkits import ob as toolkit
 from oddt.scoring import scorer
 
 # FIX Windows multiprocessing
