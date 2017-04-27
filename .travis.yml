@@ -29,7 +29,7 @@ before_install:
     - conda install -q numpy scipy scikit-learn joblib six
     # - conda remove -q mkl
     - conda install -q -c mwojcikowski openbabel
-    - pip install --no-deps git+https://github.com/oddt/oddt.git@0.2.0
+    - pip install --no-deps git+https://github.com/oddt/oddt.git@0.3.0
 
     - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install upx; fi
 
