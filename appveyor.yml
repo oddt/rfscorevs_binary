@@ -67,7 +67,7 @@ install:
     - conda install -q -c openbabel openbabel
 
     # temp
-    - conda install -q numpy scipy scikit-learn joblib #pandas
+    - conda install -q numpy scipy scikit-learn joblib pandas
     - pip install --no-deps git+https://github.com/oddt/oddt.git #@0.3.3
     # Use commit pre-MKL
     - pip install git+https://github.com/pyinstaller/pyinstaller.git@feb0d271263ca884b91033fd588b79fadf3a3a7f
